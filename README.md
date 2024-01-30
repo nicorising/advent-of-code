@@ -1,10 +1,10 @@
 # Advent of Code Solutions
 
 My [Advent of Code](https://adventofcode.com) solutions! I discovered AoC
-in 2019, and ever since I've done every year in a different language. Most
-are incomplete, but I plan to eventually go back and get every star. If I'm
-feeling particularly motivated, I may clean up old code, but I probably
-won't change the general approches to problems.
+in 2019, and ever since I've done every year in a different language. Due to
+the holidays being a busy time, most are incomplete, but I plan to eventually
+go back and get every star. If I'm feeling particularly motivated, I may clean
+up old code, but I probably won't change the general approches to problems.
 
 ## Languages
 
