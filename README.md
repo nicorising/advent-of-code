@@ -20,7 +20,7 @@ up old code, but I probably won't change the general approches to problems.
 | [2022](https://adventofcode.com/2022) | [Julia](https://julialang.org)                                | 36    |
 | [2023](https://adventofcode.com/2023) | [JavaScript](https://en.wikipedia.org/wiki/JavaScript)        | 22    |
 | [2024](https://adventofcode.com/2024) | [Zig](https://ziglang.org/)                                   | 40    |
-| [2025](https://adventofcode.com/2025) | [Clojure](https://clojure.org/)                               | 19    |
+| [2025](https://adventofcode.com/2025) | [Clojure](https://clojure.org/)                               | 21    |
 
 ## Licence
 
